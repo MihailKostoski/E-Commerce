@@ -1,11 +1,11 @@
 # E-Commerce- Fine
 
-### Home Page
+##### Home Page
 ![First](https://github.com/MihailKostoski/E-Commerce/assets/95694028/33a83f94-4b6e-4175-928f-20783f729d80)
 
 
 
-### Cart Page
+##### Cart Page
 ![second](https://github.com/MihailKostoski/E-Commerce/assets/95694028/9e149095-c5d3-4c90-a8ed-782f6c8e1c35)
 
 This is an e-commerce web application built with  MERN stack. 
@@ -19,7 +19,7 @@ and finalizing your purchase.
 
 
 
-### Project Usage
+#### Project Usage
 
 This is an example of how you may give instructions on setting up your project locally. 
 To get a local copy up and running follow these simple example steps.
@@ -29,18 +29,18 @@ This is an example of how to list things you need to use the software and how to
 
 ### npm install npm@latest -g
 
-### Installation
+#### Installation
 Clone the repo
 ### https://github.com/MihailKostoski/E-Commerce-Front-End.git
 Install NPM packages
-### cd client
-### npm install 
-### npm run dev
+##### cd client
+##### npm install 
+##### npm run dev
 
 
 
 
-### Usage
+#### Usage
 
 Use this application for whatever purpose you want!
 
