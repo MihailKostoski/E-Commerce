@@ -1,8 +1,11 @@
 # E-Commerce- Fine
 
-Home Page
+#Home Page
 ![First](https://github.com/MihailKostoski/E-Commerce/assets/95694028/33a83f94-4b6e-4175-928f-20783f729d80)
-Cart Page
+
+
+
+#Cart Page
 ![second](https://github.com/MihailKostoski/E-Commerce/assets/95694028/9e149095-c5d3-4c90-a8ed-782f6c8e1c35)
 
 This is an e-commerce web application built with  MERN stack. 
